@@ -6,7 +6,7 @@ This repository contains the solution and documentation for a Python assignment.
 
 ## 📄 Assignment PDF
 
-📎 [Download Assignment PDF](./assignment.pdf)
+📎 Copy_of_Learn_Python_in_2_hr.ipynb
 
 Make sure the file is named `assignment.pdf` and is placed in the root of the repository.
 
