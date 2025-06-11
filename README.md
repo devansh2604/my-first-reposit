@@ -23,9 +23,4 @@ Make sure the file is named `assignment.pdf` and is placed in the root of the re
 
 ---
 
-## 🏃‍♂️ How to Run
 
-To run the Python code:
-
-```bash
-python assignment_solution.py
